@@ -1,4 +1,4 @@
-//Demonstrate a one-dimentional array
+//Demonstrate a one-dimensional array
 class Array {
     public static void main(String[] args) {
         int[] month_days;

@@ -7,7 +7,7 @@ class ForEach2 {
         for(int x: nums) {
             System.out.println("Value is " + x);
             sum+=x;
-            if (x==5) break;
+            if (x==5) break; // Stops the loop when 5 is obtained.
         }
         System.out.println("Summation of first 5 elements is " + sum);
     }
